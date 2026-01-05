@@ -20,7 +20,7 @@ Genomic data analysis | Bioinformatics | Research writing| R programming| Bash s
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on project about AI in healthcare.
 - 🤔 I’m looking for help with Git.
-- 📫 How to reach me: (Linkedin: https://www.linkedin.com/in/prosper-madu/)
+- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/prosper-madu/)
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I love Jesus, hip-hop, and poetry.
 
