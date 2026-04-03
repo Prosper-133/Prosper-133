@@ -2,8 +2,7 @@
 
 **Welcome To My World**
 
-![PROSPER MADU](https://github.com/user-attachments/assets/99e3daf0-1ae5-46ce-a746-f5e7ab9638d5)
-
+<img width="1584" height="396" alt="P" src="https://github.com/user-attachments/assets/abe445e6-47a8-4d62-9dde-b76b98b853f0" />
 
 Hi, my name is Prosper. I'm a biomedical engineer from Nigeria with a strong passion for health technology advancement. 
 
