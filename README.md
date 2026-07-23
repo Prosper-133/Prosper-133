@@ -2,7 +2,7 @@
 
 **Welcome To My World**
 
-<img width="1584" height="396" alt="P" src="https://github.com/user-attachments/assets/abe445e6-47a8-4d62-9dde-b76b98b853f0" />
+<img width="1584" height="396" alt="P" src="https://github.com/user-attachments/assets/88c4bb8c-9c5a-494e-aeaf-1117ebe5b1e1" />
 
 Hi, my name is Prosper. I'm a biomedical engineer from Nigeria with a strong passion for health technology advancement. 
 
