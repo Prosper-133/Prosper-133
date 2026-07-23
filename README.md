@@ -4,19 +4,19 @@
 
 <img width="1584" height="396" alt="P" src="https://github.com/user-attachments/assets/88c4bb8c-9c5a-494e-aeaf-1117ebe5b1e1" />
 
-Hi, my name is Prosper. I'm a biomedical engineer from Nigeria with a strong passion for health technology advancement. 
+Hi, my name is Prosper. I'm a biomedical data scientist from Nigeria with a strong passion for health technology advancement. 
 
-I have a huge interest in bioinformatics and using AI/ML (Artificial Intelligence/ Machine Learning) to make sense of biological data. 
+I am interest in bioinformatics and using AI/ML (Artificial Intelligence/ Machine Learning) for precision diagnostics of diseases. 
 
 My vision is to build models for predictive diagnosis of diseases like cancer and other genetic disorders.
 
 
 **Skills:**
-Genomic data analysis | Bioinformatics | Research writing| R programming| Bash scripting
+Genomic data analysis | Bioinformatics | Research writing| R programming | Bash scripting | Python | Data Analysis | Machine learning
 
 
-- 🔭 I’m currently a data science student at ALX Africa.
-- 🌱 I’m currently learning python.
+- 🔭 I'm interested Antimicrobial Resistance (AMR) Research.
+- 🌱 I’m bulding around AI for accurate and timely disease diagnostics.
 - 👯 I’m looking to collaborate on project about AI in healthcare.
 - 🤔 I’m looking for help with Git.
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/prosper-madu/)
